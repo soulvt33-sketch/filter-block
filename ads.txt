@@ -1,2 +1,6 @@
-www.037hddmovie.com##div#ads-sidebar
-
+animeruka.com##div#box-side
+animeruka.com##div#box-footer-fix
+animeruka.com##div#box-side-l
+animeruka.com##div#box-side-r
+animeruka.com##a[href*="/ads/"]
+animeruka.com##img[src*="/ads/"]
