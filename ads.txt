@@ -4,3 +4,4 @@ animeruka.com##div#box-side-l
 animeruka.com##div#box-side-r
 animeruka.com##a[href*="/ads/"]
 animeruka.com##img[src*="/ads/"]
+ads.youtube.com
