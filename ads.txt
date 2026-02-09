@@ -1,1 +1,2 @@
-www.037hddmovie.com###ads-sidebar
+www.037hddmovie.com##div#ads-sidebar
+
